@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Akuntansi Unpad</string>
+
+    <string-array name="data_dosen">
+        <item>Prof. Dr. H. Moh. Wahyudin Zarkasyi, SE.,MS,Ak</item>
+        <item>Prof. Dr. Hj. Ilya Avianti, S.E.,Ak.,M.Si.</item>
+        <item>Prof. Dr. Hj. Winwin Yadiati, SE.,MS.,Ak</item>
+        <item>Prof.Dr. Sri Mulyani NS, S.E.,M.Si.,Ak </item>
+        <item>Dr. Srihadi Winarningsih, SE.,MS.,Ak.</item>
+        <item>Dr. H. Harry Suharman, S.E., M.A., Ak</item>
+        <item>Dr. H. Memed Sueb, SE.,MS,Ak </item>
+        <item>Dr.Hj. Poppy Sofia Koeswayo, S.E,MSA, Ak</item>
+        <item>Prof. Dr. Hj. Nunuy Nur Afiah, SE, MSi,Ak </item>
+        <item>Dr. Hj. Roebiandini Soemantri, S.E., M.Si., Ak</item>
+        <item>Dr. MM. Nanny Dewi Tanzil, SE.,M.Comm,Ak </item>
+        <item>Dr. Tettet Fitrijanti, SE. MSi. Ak</item>
+        <item>Edi Jaenudin, S.E, M.Si.Ak</item>
+        <item>Hj. Euis Nurhayati, S.E, MSi, Ak</item>
+        <item>Hj. Sri Mulyani, SE.,MS.,Ak</item>
+        <item>H. Dadang Bunyamin, S.E.,MBA.,Ak</item>
+        <item>Djoemarma Bede, S.E.,MBA.,Ak</item>
+        <item>Evita Puspitasari, SE.,M.Si,Ak</item>
+        <item>Hj. Prima Yusi Sari, S.E, M.E, Ak</item>
+        <item>Cahya Irawady, S.E.,M.Si, Ak.</item>
+        <item>Dr. Muhammad Dahlan, S.E.M.Acc.,Ak.</item>
+        <item>Dr. Hj. Dini Rosdini,SE.MAk.Ak.</item>
+        <item>Dr. Hamzah Ritchi, Ak, CA </item>
+        <item>Sugiono Poulus, S.E.,MBA,Ak</item>
+        <item>Gia Kardina Prima Amrania, SE,M.Acc.Ak </item>
+        <item>Ivan Yudianto, SE.M.Si.Ak.,QIA.,CA </item>
+        <item>Devianti Yunita H.,SE.MT.Ak</item>
+        <item>H. Citra Sukmadilaga, S.E.,M.BA, Ak.,Ph.D.</item>
+        <item>Reza Mohamad Z.,SE.Ak </item>
+        <item>Sofik Handoyo,SE.,MSBS,Ak.</item>
+        <item>Zaldy Adrianto, S.E., M.ProfAcc., Ak</item>
+        <item>Sony Devano, SE,M.Ak,Ak.</item>
+        <item>Rilya Aryancana, S.E.,M.Sc.,Ak </item>
+        <item>Dede Abdul Hasyir, SE.,Ak</item>
+        <item>Syaiful Rachman Soenaria, SE, MT.,Ak </item>
+        <item>Ersa Tri Wahyuni, S.E.,M.Acc.,CPMA, Ph.D </item>
+        <item>Nyi Raden Handiani Suciati, S.E.,M.M.,Ak.</item>
+        <item>Fury Khristianty Fitriyah, SE.,M.Ak.,Ak</item>
+        <item>Indri Yuliafitri, SE.M.Si., SAS </item>
+    </string-array>
+
+    <string-array name="dosen_jabatan">
+        <item>Guru Besar </item>
+        <item>Guru Besar </item>
+        <item>Guru Besar </item>
+        <item>Guru Besar </item>
+        <item>Lektor Kepala </item>
+        <item>Lektor Kepala </item>
+        <item>Lektor Kepala </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor Kepala </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Lektor </item>
+        <item>Asisten Ahli </item>
+        <item>Tenaga Pengajar </item>
+        <item> </item>
+        <item>Asisten Ahli </item>
+        <item>Asisten Ahli </item>
+        <item>Asisten Ahli </item>
+        <item>Asisten Ahli </item>
+        <item>Asisten Ahli </item>
+        <item>Asisten Ahli </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+
+</resources>
