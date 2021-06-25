@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VisiFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="89dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="90dp"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="VISI MISI PRODI S1 AKUNTANSI"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <ImageView
+                android:id="@+id/visimisi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="170dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="171dp"
+                android:src="@drawable/visimisi"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/textView13" />
+
+            <me.biubiubiu.justifytext.library.JustifyTextView
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="2dp"
+                android:fontFamily="sans-serif-condensed-light"
+                android:textColor="#000000"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView28"
+                android:text="         Menjadi program studi unggul dan berkelas dunia pada tahun 2020.\n"/>
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="371dp"
+                android:layout_height="55dp"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="8dp"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="Visi \nVisi Program Studi Sarjana Akuntansi untuk periode 2016–2020 dirumuskan sebagai berikut:"
+                android:textColor="#000000"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/visimisi" />
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="28dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="100dp"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="Misi \nMisi Program Studi Sarjana Akuntansi 2016-2020: "
+                android:textColor="#000000"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView27" />
+
+            <me.biubiubiu.justifytext.library.JustifyTextView
+                android:id="@+id/textView30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="sans-serif-condensed-light"
+                android:textColor="#000000"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView29"
+                android:text="1. Melaksanakan pembelajaran dan pendidikan dalam bidang akuntansi yang berdaya saing nasional, dan internasional yang mampu memenuhi tuntutanmasyarakat pengguna lulusan akuntansi.\n\n 2. Melaksanakan penelitian dalam bidang akuntansi yang mampu berkonstribusi bagi pemecahan masalah dalam kehidupan bermasyarakat, berbangsa dan bernegara serta bagi pengembangan keilmuan akuntansi\n\n 3. Melaksanakan pengabdian kepada masyarakat guna menopang pembelajaran dan kemajuan ilmu pengetahuan serta teknologi bagi komunitas akademik, pemerintah, industri dan masyarakat.\n\n 4. Membentuk sivitas akademika yang berintegritas, berkarakter, berdaya saing dan berwawasan global\n 5. Menjalin kerjasama dengan berbagai mitra strategis dalam dan luar negeri secara berkesinambungan\n"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

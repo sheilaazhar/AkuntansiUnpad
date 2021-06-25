@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".TujuanFragment">
+
+<!-- TODO: Update blank fragment layout -->
+<ScrollView
+    android:id="@+id/scrollView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="75dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="88dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="TUJUAN PRODI S1 AKUNTANSI"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.031"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/tujuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="171dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="172dp"
+            android:src="@drawable/tujuan"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="60dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="Program Sarjana Akuntansi Unpad bertujuan untuk:"
+            android:textColor="#000000"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tujuan" />
+
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:fontFamily="sans-serif-condensed-light"
+            android:textColor="#000000"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView15"
+            android:text="-\tTerlaksananya kegiatan pembelajaran dan pendidikan bidang akuntansi yang bermutu untuk menghasilkan lulusan yang memiliki kompetensi di bidang akuntansi yang mampu bersaing dalam level lokal, nasional, regional maupun global\n\n -\tTerlaksananya pengelolaan program studi akuntansi yang bermutu, profesional, dan akuntabel\n\n -\tPeningkatan kualitas dan kuantitas penelitian yang menitikberatkan kepada isu-isu dalam lingkup lokal, nasional dan internasional, baik sebagai pengembangan keilmuan studi akuntansi maupun untuk berkontribusi pada pemecahan masalah dalam kehidupan bermasyarakat, berbangsa dan bernegara\n\n -\tTerlaksananya kegiatan pengabdian kepada masyarakat yang mampu menopang pembelajaran dan kemajuan ilmu pengetahuan studi akuntansi serta pemberdayaan bagi komunitas akademik, pemerintah, industri dan masyarakat\n\n -\tTerbangunnya iklim akademik yang kondusif dalam pelaksanaan pendidikan, penelitian, dan pengabdian kepada masyarakat\n\n -\tTerwujudnya kemitraan dengan berbagai organisasi dalam dan luar negeri sebagai mitra strategi prodi akuntansi untuk kepentingan penyediaan kesempatan magang dan praktikum pembelajaran, promosi bersama, peluang melakukan kerjasama tridharma dan pendanaan riset serta beasiswa bagi mahasiswa.\n\n"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
