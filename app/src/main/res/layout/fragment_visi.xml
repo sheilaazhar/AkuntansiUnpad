@@ -59,7 +59,7 @@
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView28"
-                android:text="         Menjadi program studi unggul dan berkelas dunia pada tahun 2020.\n"/>
+                android:text="         Menjadi Program Studi Unggul Berkinerja, Bermanfaat dan Berkelas Dunia pada Tahun 2026 melalui kerjasama yang kuat dengan industri, pengajaran yang berkualitas dan mengedepankan riset yang inovatif.\n"/>
 
             <TextView
                 android:id="@+id/textView28"
@@ -68,7 +68,7 @@
                 android:layout_marginStart="40dp"
                 android:layout_marginTop="8dp"
                 android:fontFamily="sans-serif-condensed-medium"
-                android:text="Visi \nVisi Program Studi Sarjana Akuntansi untuk periode 2016–2020 dirumuskan sebagai berikut:"
+                android:text="Visi \nVisi Program Studi Sarjana Akuntansi untuk periode 2021–2026 dirumuskan sebagai berikut:"
                 android:textColor="#000000"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -82,7 +82,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_marginEnd="100dp"
                 android:fontFamily="sans-serif-condensed-medium"
-                android:text="Misi \nMisi Program Studi Sarjana Akuntansi 2016-2020: "
+                android:text="Misi \nMisi Program Studi Sarjana Akuntansi 2021–2026: "
                 android:textColor="#000000"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -100,7 +100,7 @@
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView29"
-                android:text="1. Melaksanakan pembelajaran dan pendidikan dalam bidang akuntansi yang berdaya saing nasional, dan internasional yang mampu memenuhi tuntutanmasyarakat pengguna lulusan akuntansi.\n\n 2. Melaksanakan penelitian dalam bidang akuntansi yang mampu berkonstribusi bagi pemecahan masalah dalam kehidupan bermasyarakat, berbangsa dan bernegara serta bagi pengembangan keilmuan akuntansi\n\n 3. Melaksanakan pengabdian kepada masyarakat guna menopang pembelajaran dan kemajuan ilmu pengetahuan serta teknologi bagi komunitas akademik, pemerintah, industri dan masyarakat.\n\n 4. Membentuk sivitas akademika yang berintegritas, berkarakter, berdaya saing dan berwawasan global\n 5. Menjalin kerjasama dengan berbagai mitra strategis dalam dan luar negeri secara berkesinambungan\n"/>
+                android:text="1. Melaksanakan pembelajaran dan pendidikan dalam bidang akuntansi yang berdaya saing nasional, dan internasional yang mampu memenuhi tuntutan masyarakat pengguna lulusan\nakuntansi.\n\n 2. Melaksanakan penelitian dalam bidang akuntansi yang mampu berkonstribusi bagi pemecahan masalah dalam kehidupan bermasyarakat, berbangsa dan bernegara serta bagi pengembangan keilmuan akuntansi.\n\n 3. Melaksanakan pengabdian kepada masyarakat guna menopang pembelajaran dan kemajuan ilmu pengetahuan serta teknologi bagi komunitas akademik, pemerintah, industri dan masyarakat.\n\n 4. Membentuk sivitas akademika yang berintegritas, berkarakter, berdaya saing dan berwawasan global.\n\n 5. Menjalin kerjasama dengan berbagai mitra strategis dalam dan luar negeri secara berkesinambungan.\n"/>
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
